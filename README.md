@@ -21,11 +21,11 @@ A cura di Gabriele Lombardi (<a href="https://www.argo.vision)" target="_top">ww
 </ol>
 Gli argomenti trattati sono considerati materiale d'esame.
 
-	<strong>Link su per le due lezioni su Teams:</strong>
+<strong>Link su per le due lezioni su Teams:</strong>
 <ul>
-<li><strong>Prima lezione | 23.05: </strong><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzEwMGRlODctN2RjOS00Njg2LWE1ZDMtMzgxMzAzMzdhNWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%221bea38e2-0b2f-4124-af72-0ca7ce974ef6%22%2c%22Oid%22%3a%22aa36c5df-f04f-41f7-bc2c-939a4fd1cb18%22%7d" target="_top">Fai clic qui per partecipare alla riunione</a></li>
+<li><strong>Lezione del 23.05: </strong><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzEwMGRlODctN2RjOS00Njg2LWE1ZDMtMzgxMzAzMzdhNWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%221bea38e2-0b2f-4124-af72-0ca7ce974ef6%22%2c%22Oid%22%3a%22aa36c5df-f04f-41f7-bc2c-939a4fd1cb18%22%7d" target="_top">Fai clic qui per partecipare alla riunione</a></li>
 									
-<li><strong>Seconda lezione | 30.05: </strong><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGRiMDhkYTEtODNhYi00Yjc4LWI0NWUtMDE3OGE2YWRlNGEx%40thread.v2/0?context=%7b%22Tid%22%3a%221bea38e2-0b2f-4124-af72-0ca7ce974ef6%22%2c%22Oid%22%3a%22aa36c5df-f04f-41f7-bc2c-939a4fd1cb18%22%7d" target="_top">Fai clic qui per partecipare alla riunione</a></li>
+<li><strong>Lezione del 30.05: </strong><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGRiMDhkYTEtODNhYi00Yjc4LWI0NWUtMDE3OGE2YWRlNGEx%40thread.v2/0?context=%7b%22Tid%22%3a%221bea38e2-0b2f-4124-af72-0ca7ce974ef6%22%2c%22Oid%22%3a%22aa36c5df-f04f-41f7-bc2c-939a4fd1cb18%22%7d" target="_top">Fai clic qui per partecipare alla riunione</a></li>
 </ul>
 
 
