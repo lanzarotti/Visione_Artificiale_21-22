@@ -9,7 +9,8 @@ Il materiale è basato sul libro **Dive into deep learning** (https://d2l.ai/ind
 <dl>
 							
 <dd>
-Avviso di lezioni su <strong>generative models</strong> a cura di Gabriele Lombardi (<a href="https://www.argo.vision)" target="_top">www.argo.vision</a>).<br>
+# <font color="red">Avviso di lezioni su <strong>generative models</strong></font>
+a cura di Gabriele Lombardi (<a href="https://www.argo.vision)" target="_top">www.argo.vision</a>).<br>
 Date: lunedì 23 maggio e lunedì 30 maggio, ore 14.00, aula Sigma<br><br>
 Argomenti delle lezioni:
 <ol>
